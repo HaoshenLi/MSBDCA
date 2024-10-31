@@ -1,0 +1,1 @@
+This is the implementation of MSBDCA in "Multi-Stage BiDirectional Cross-Attention Model for Predicting Prognosis in Multiple Peritoneum Lesions With Clinical Information".
